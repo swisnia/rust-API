@@ -5,4 +5,5 @@ Rust is required for this project! The latest stable version is always recommend
 To start the project:
 
 -Clone or download this repository to your computer
+
 -Use command "cargo run" to start the program
