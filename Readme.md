@@ -1,4 +1,3 @@
-SAT RECRUITMENT TASK
 
 Rust is required for this project! The latest stable version is always recommended.
 
